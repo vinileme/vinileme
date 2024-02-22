@@ -23,4 +23,5 @@
 </div>
 
 
+![snake gif](https://github.com/vinileme/vinileme/blob/output/github-contribution-grid-snake.svg)
 
